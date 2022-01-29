@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-//finding prime number or not
+//repeat in ascending order
 
 int main(){
     int i = 1;
